@@ -1,3 +1,35 @@
-.indent{
-	text-indent: 40px;
+.course{
+	font-size: 32px;
+}
+
+.italics{
+	font-style: italic;
+}
+
+.emphasis{
+	text-decoration: underline;
+}
+
+.smaller_font{
+	font-size: 15pt;
+}
+
+td {
+    border: thin red solid;
+  }
+
+th {
+    border: thin blue solid;
+  }
+
+.table_width{
+	width: 575px;
+}
+
+.rows{
+	width: 59px;
+}
+
+.blank_cell{
+	height: 16px;
 }
